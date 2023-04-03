@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm MVHMD WVLIIEEEIID</h1>
 <h3 align="center">طب ونه</h3>
-
-- 🌱 I’m currently learning **Flutter**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
