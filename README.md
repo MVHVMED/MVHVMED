@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MVHMD WVLIIEEEIID</h1>
+<h1 align="center">MVHMD WVLIIEEEIID</h1>
 <h3 align="center">طب ونه</h3>
 
 <h3 align="left">Languages and Tools:</h3>
